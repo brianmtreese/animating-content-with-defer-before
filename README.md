@@ -1,4 +1,4 @@
-# Animating Content With @Defer (After)
+# Animating Content With @Defer (Before)
 
 This is a demo `@defer` in Angular and animating the content as it's scrolled into the viewport.
 
